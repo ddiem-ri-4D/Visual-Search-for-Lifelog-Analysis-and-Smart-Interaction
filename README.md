@@ -1,1 +1,1 @@
-# Visual-Search-for-Lifelog-Analysic-and-Smart-Interaction
+# Visual-Search-for-Lifelog-Analysis-and-Smart-Interaction
